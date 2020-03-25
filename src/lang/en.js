@@ -2,9 +2,9 @@
 export const m = {
     name:[
         [
-            ["NetCloth Blog","url(/static/netcloth.png)"," https://medium.com/@NetCloth/"],
-            ["CoinDesk","url(/static/coindesk.png)","https://www.coindesk.com"],
-            ["CoinMarketCap","url(/static/coinmarketcap.png)","https://www.coinmarketcap.com"],
+            ["S1 Stage 1","url(/static/Stage1.png)","https://bbs.saraba1st.com"],
+            ["NGA","url(/static/nga.png)","https://bbs.nga.cn"],
+            ["奶牛关","url(/static/nng.png)","https://cowlevel.net"],
         ],
       ],
   }
